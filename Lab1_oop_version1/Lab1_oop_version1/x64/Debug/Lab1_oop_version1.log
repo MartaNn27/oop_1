@@ -1,0 +1,17 @@
+﻿  Lab1_oop_version1.cpp
+C:\Users\Марта\source\repos\Lab1_oop_version1\Lab1_oop_version1\Lab1_oop_version1.cpp(121,53): warning C4267: 'argument': conversion from 'size_t' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Марта\source\repos\Lab1_oop_version1\Lab1_oop_version1\Lab1_oop_version1.cpp(122,57): warning C4267: 'argument': conversion from 'size_t' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Марта\source\repos\Lab1_oop_version1\Lab1_oop_version1\Lab1_oop_version1.cpp(123,56): warning C4267: 'argument': conversion from 'size_t' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  Lab1_oop_version1.vcxproj -> C:\Users\Марта\source\repos\Lab1_oop_version1\x64\Debug\Lab1_oop_version1.exe
