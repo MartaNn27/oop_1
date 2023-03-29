@@ -1,4 +1,4 @@
-﻿#define _CRT_SECURE_NO_WARNING
+
 #include <iostream>
 #include <set>
 #include <iterator>
